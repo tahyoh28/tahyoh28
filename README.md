@@ -7,8 +7,8 @@ Data Analyst
 
 Analytical, detail-oriented, and driven by data, I am a Data Analyst with a passion for turning raw numbers into actionable insights. With a strong foundation in statistical analysis, data visualization, and SQL, I specialize in uncovering trends and patterns that help businesses make data-informed decisions. I bring experience working with cross-functional teams to identify key metrics, optimize performance, and deliver impactful reporting dashboards using tools like Excel, Power BI, and Python. My background spans multiple industries, allowing me to adapt quickly, ask the right questions, and deliver results that align with strategic goals. Whether it's streamlining workflows, identifying cost-saving opportunities, or forecasting market trends, I thrive on solving complex problems with data at the core
 
-✉️  You can contact me at [tayoadeyemi777@gmail.com](mailto:tayoadeyemi777@gmail.com)
-⚡  Love learning new things
+* ✉️  You can contact me at [tayoadeyemi777@gmail.com](mailto:tayoadeyemi777@gmail.com)
+* ⚡  Love learning new things
 
 ### Skills
 
